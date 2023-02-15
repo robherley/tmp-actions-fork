@@ -1,2 +1,2 @@
 # tmp-actions-fork
-🧠
+:thinking:
