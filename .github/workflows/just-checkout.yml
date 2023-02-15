@@ -1,4 +1,4 @@
-name: CI
+name: just-checkout
 
 on:
   pull_request:
